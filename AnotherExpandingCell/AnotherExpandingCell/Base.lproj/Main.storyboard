@@ -52,8 +52,9 @@
                                         <constraint firstItem="KS2-QC-SYq" firstAttribute="leading" secondItem="0sX-nN-jgL" secondAttribute="leading" constant="8" id="IPF-cb-Hct"/>
                                         <constraint firstItem="ygS-TI-RxY" firstAttribute="leading" secondItem="KS2-QC-SYq" secondAttribute="trailing" constant="8" id="PiL-mX-hzR"/>
                                         <constraint firstItem="ygS-TI-RxY" firstAttribute="trailing" secondItem="0sX-nN-jgL" secondAttribute="trailing" id="aZe-wS-baV"/>
+                                        <constraint firstItem="ygS-TI-RxY" firstAttribute="centerY" secondItem="0sX-nN-jgL" secondAttribute="centerY" id="bEF-lv-tXB"/>
                                         <constraint firstItem="rT8-zs-0pW" firstAttribute="trailing" secondItem="KS2-QC-SYq" secondAttribute="trailing" id="hLB-w6-3aa"/>
-                                        <constraint firstItem="ygS-TI-RxY" firstAttribute="top" secondItem="0sX-nN-jgL" secondAttribute="top" constant="8" id="lEV-bF-kWP"/>
+                                        <constraint firstItem="ygS-TI-RxY" firstAttribute="top" relation="greaterThanOrEqual" secondItem="0sX-nN-jgL" secondAttribute="top" constant="8" id="lEV-bF-kWP"/>
                                         <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="rT8-zs-0pW" secondAttribute="bottom" constant="8" id="qKO-dY-F2E"/>
                                         <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="ygS-TI-RxY" secondAttribute="bottom" constant="8" id="thy-cE-07Z"/>
                                         <constraint firstItem="KS2-QC-SYq" firstAttribute="top" secondItem="0sX-nN-jgL" secondAttribute="top" constant="8" id="y6a-bU-7PK"/>
